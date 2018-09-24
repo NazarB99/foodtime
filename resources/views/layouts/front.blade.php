@@ -23,7 +23,7 @@
     <link rel="stylesheet" href="{{asset('css/style-default.css')}}">
     <link rel="stylesheet" href="{{asset('css/custom.css')}}">
     <link rel="stylesheet" href="{{asset('css/response_style.css')}}">
-
+    <link href="{{mix('css/app.css')}}">
     <link href="https://fonts.googleapis.com/css?family=Cookie" rel="stylesheet">
     <!--    <link href="http://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.1/normalize.css" rel="stylesheet" type="text/css">-->
     <!--[if lt IE 9]>
@@ -235,6 +235,7 @@
     </div>
 </footer>
 <a href="#" class="top-arrow"><i class="fa fa-chevron-up"></i></a>
+<script src="{{mix('js/app.js')}}"></script>
 <script src="{{asset('js/jquery.min.js')}}"></script>
 <script src="{{asset('plugin/bootstrap/bootstrap.min.js')}}"></script>
 <script src="{{asset('plugin/bootstrap/bootstrap-datepicker.js')}}"></script>
