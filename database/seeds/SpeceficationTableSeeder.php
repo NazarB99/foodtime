@@ -33,7 +33,7 @@ class SpeceficationTableSeeder extends Seeder
 
 	    App\Specefication::create([
 		    'name' => 'Десерт',
-		    'img' => 'images/category/desert.png'
+		    'img' => 'images/category/dessert.png'
 	    ]);
     }
 }

@@ -1,3 +1,9 @@
 {
+<<<<<<< HEAD
     "/js/app.js": "/js/app.js"
 }
+=======
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css"
+}
+>>>>>>> a2090731dee97a429945da6dc19ce1199c5b21b2
